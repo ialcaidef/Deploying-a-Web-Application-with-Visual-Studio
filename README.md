@@ -66,7 +66,7 @@
 
 ![20487D_Images](https://github.com/ialcaidef/Deploying-a-Web-Application-with-Visual-Studio/blob/master/images/01.png)
 
-![20487D_Images](https://github.com/ialcaidef/Deploying-a-Web-Application-with-Visual-Studio/blob/master/images/02.png)
+![20487D_Images](https://github.com/ialcaidef/Deploying-a-Web-Application-with-Visual-Studio/blob/master/images/02.PNG)
 
 ![20487D_Images](https://github.com/ialcaidef/Deploying-a-Web-Application-with-Visual-Studio/blob/master/images/03.png)
 
