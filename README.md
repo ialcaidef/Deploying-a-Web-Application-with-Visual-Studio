@@ -32,6 +32,8 @@
 
 13. In the **Resource Group** section, select **Create new**, and then change the name of the resource group to **BlueYonder.Demo.06**.
 
+![20487D_Images](https://github.com/ialcaidef/Deploying-a-Web-Application-with-Visual-Studio/blob/master/images/00.png)
+
 14. Click **App Service Plan/Location**, and then click **Create new**.
 
 15. In the **App Service Plan** box, type **BlueYonderDemo06**.
@@ -41,6 +43,8 @@
 17. In the **Pricing tier** section, select **D1 Shared**, and then click **OK**.
 
 18. Click **Create**. The site is added to the **Web Apps** table and its status is set to **Creating**. 
+
+![20487D_Images](https://github.com/ialcaidef/Deploying-a-Web-Application-with-Visual-Studio/blob/master/images/000.png)
 
 19. After the status changes to **Running**, in **MyWebSite - Microsoft Visual Studio(Administrator)**, on the **View** menu, click **Server Explorer**.
 
@@ -60,6 +64,14 @@
 
 25. Click **Publish**.
 
+![20487D_Images](https://github.com/ialcaidef/Deploying-a-Web-Application-with-Visual-Studio/blob/master/images/01.png)
+
+![20487D_Images](https://github.com/ialcaidef/Deploying-a-Web-Application-with-Visual-Studio/blob/master/images/02.png)
+
+![20487D_Images](https://github.com/ialcaidef/Deploying-a-Web-Application-with-Visual-Studio/blob/master/images/03.png)
+
+![20487D_Images](https://github.com/ialcaidef/Deploying-a-Web-Application-with-Visual-Studio/blob/master/images/04.png)
+
     >**Note**: Visual Studio publishes the application according to the settings that are provided in the profile file. After deployment completes, Visual Studio opens Internet Explorer and displays the web app. The deployment process is quick because the process only copies the content of the application to an existing virtual machine and does not need to wait for a new virtual machine to be created.
 
 26. In the browser, navigate to the following URL:
@@ -69,3 +81,5 @@
     ```
 
 27. Verify that the response is in the format: **["***value1***","***value2***"]**.
+
+![20487D_Images](https://github.com/ialcaidef/Deploying-a-Web-Application-with-Visual-Studio/blob/master/images/05.png)
